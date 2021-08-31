@@ -81,11 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Loren Kocillari"
-  avatar           : "/images/Loren29.jpg"
+  avatar           : "/:images/:Loren29.jpg"
   bio              : "*Postdoc @IIT*"
   location         : "Rovereto, Trento (Italy)"
   employer         :  "Italian Institute of Technology (IIT)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=KAdoA4sAAAAJ&hl=en"
   email            : "loren.kocillari@iit.it"
   researchgate     :  "https://www.researchgate.net/profile/Loren-Kocillari"
