@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Loren Kocillari"
   avatar           : "home/Loren29.jpg"
-  bio              : *Postdoc @IIT*
+  bio              : "*Postdoc @IIT*"
   location         : "Rovereto, Trento (Italy)"
   googlescholar    : "https://scholar.google.it/citations?user=KAdoA4sAAAAJ&hl=en"
   email            : "loren.kocillari@iit.it"
