@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Work in progress.
+This site is work in progress.
