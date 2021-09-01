@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Loren Kocillari"
+title                    : "Loren Koçillari"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "I am a biophysicist working at the interface between statistical physics and biological systems"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Loren Kocillari"
+  name             : "Loren Koçillari"
   avatar           : Loren29.jpg
-  bio              : "*Postdoc @IIT*"
+  bio              : "<i>Postdoc at the Italian Institute of Technology</i>"
   location         : "Rovereto, Trento (Italy)"
   googlescholar    : "https://scholar.google.it/citations?user=KAdoA4sAAAAJ&hl=en"
   email            : "loren.kocillari@iit.it"
